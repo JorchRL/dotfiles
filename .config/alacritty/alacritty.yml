@@ -1,0 +1,11 @@
+font:
+  normal:
+    family: 0xProto Nerd Font
+  size: 12
+
+window:
+  padding:
+    x: 0
+    y: 0
+  opacity: 0.8
+  dynamic_padding: true
