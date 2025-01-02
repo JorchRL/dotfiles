@@ -1,8 +1,8 @@
 return {
   {
-    "catppuccin/nvim",
+    "catppuccin",
     opts = {
-      transparent_background = true,
+      transparent_background = false,
     },
   },
   {
@@ -18,8 +18,8 @@ return {
   {
     "Lazyvim/LazyVim",
     opts = {
-      -- colorscheme = "catppuccin-macchiato",
-      colorscheme = "tokyonight",
+      colorscheme = "catppuccin-macchiato",
+      -- colorscheme = "tokyonight",
     },
   },
 }
